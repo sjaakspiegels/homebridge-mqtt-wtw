@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "WTW Plugin",
+  "name": "homebridge-mqtt-wtw",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Controls a wtw installation with mqtt and tasmota devices",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git://github.com/sjaakspiegels/homebridge-mqtt-wtw.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/sjaakspiegels/homebridge-mqtt-wtw/issues"
   },
   "engines": {
     "node": ">=10.17.0",

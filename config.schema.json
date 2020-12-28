@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "homebridge-mqtt-wtw",
   "pluginType": "platform",
   "singular": true,
   "schema": {
